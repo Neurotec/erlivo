@@ -1,2 +1,4 @@
-# erlivo
-laboratorio erlang y freeswitch mod-erlang
+erlivo
+=====
+
+laboratorio Freeswitch y mod-erlang.
